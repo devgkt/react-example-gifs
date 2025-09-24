@@ -2,7 +2,7 @@ const HelloWorldApp = () =>{
     return (
             <header>
                 <div><img src="./GloboLogo.png" alt="logo"/></div>
-                <div>Cample App</div>
+                <div>sample App</div>
             </header>
     );
 };
